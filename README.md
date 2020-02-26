@@ -12,3 +12,5 @@ Configuration files for:
 [How to Configure your macOs Terminal with Zsh like a Pro](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
 
 [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
+
+[How to import / export profiles on iTerm2](https://stackoverflow.com/questions/35211565/how-do-i-import-an-iterm2-profile)
