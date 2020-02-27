@@ -14,3 +14,5 @@ Configuration files for:
 [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
 
 [How to import / export profiles on iTerm2](https://stackoverflow.com/questions/35211565/how-do-i-import-an-iterm2-profile)
+
+[Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
